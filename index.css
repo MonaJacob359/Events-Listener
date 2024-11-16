@@ -1,0 +1,17 @@
+body{
+    background-color: #e6e6e6;
+    height: 100vh;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+div{
+    width: 30vh;
+    height: 10vh;
+    background-color: #c4c4c4;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
